@@ -1,3 +1,5 @@
+/*	This C file is Written by Abdelrahman Hegazy email:abdelrahmanhegazy70@gmail.com gitgub:https://github.com/Hegazian	*/
+
 /*	Write a login program in C that ask the
 	user to enter his ID and his password, if
 	the ID is correct the system will ask the

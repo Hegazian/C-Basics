@@ -1,3 +1,5 @@
+/*	This C file is Written by Abdelrahman Hegazy email:abdelrahmanhegazy70@gmail.com gitgub:https://github.com/Hegazian	*/
+
 /*	Write a C code that ask the user
 	to enter a number and check if it
 	is Even or Odd number

@@ -1,3 +1,5 @@
+/*	This C file is Written by Abdelrahman Hegazy email:abdelrahmanhegazy70@gmail.com gitgub:https://github.com/Hegazian	*/
+
 /* 	while loop is used to apply code when its condition is True 
 	otherwithe it skip the code inside while
 

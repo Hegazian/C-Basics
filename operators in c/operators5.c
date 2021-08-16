@@ -1,3 +1,5 @@
+/*	This C file is Written by Abdelrahman Hegazy email:abdelrahmanhegazy70@gmail.com gitgub:https://github.com/Hegazian	*/
+
 // logical Operators : These operators are used to apply logical operation between two values, 			       each value will be considered either false if it is 0.			   			       or true if it is not 0.
 
 // there are many types of logical Operators 

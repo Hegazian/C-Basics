@@ -1,3 +1,5 @@
+/*	This C file is Written by Abdelrahman Hegazy email:abdelrahmanhegazy70@gmail.com gitgub:https://github.com/Hegazian	*/
+
 /*	Write a C code to calculate employee
 	salary in a week based on the his
 	working hours, hour rate is 50.

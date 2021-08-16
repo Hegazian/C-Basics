@@ -1,3 +1,5 @@
+/*	This C file is Written by Abdelrahman Hegazy email:abdelrahmanhegazy70@gmail.com gitgub:https://github.com/Hegazian	*/
+
 /*	Write a code that will ask the user to enter 3
 	numbers, the program will print the maximum
 	number of them.

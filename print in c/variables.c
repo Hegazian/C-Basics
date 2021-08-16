@@ -1,3 +1,5 @@
+/*	This C file is Written by Abdelrahman Hegazy email:abdelrahmanhegazy70@gmail.com gitgub:https://github.com/Hegazian	*/
+
 /* variable is a part from the memory used to hold a piece of data
    the variable has a type, name , and value
    the types of variables differs in size and/or data to be saved

@@ -1,3 +1,5 @@
+/*	This C file is Written by Abdelrahman Hegazy email:abdelrahmanhegazy70@gmail.com gitgub:https://github.com/Hegazian	*/
+
 /* Bitwise Operators : they are operators used for logic operations like 			     AND,OR,XOR,NOT,...
 	logic operators applied on the binary number so we turn number to binary frist 
 	and then do our operator	

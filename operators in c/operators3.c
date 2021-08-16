@@ -1,3 +1,5 @@
+/*	This C file is Written by Abdelrahman Hegazy email:abdelrahmanhegazy70@gmail.com gitgub:https://github.com/Hegazian	*/
+
 // Assigned Operators : they are operators used for assign number or operation to variables
    
 /* there are many types of Assigned Operators 

@@ -1,3 +1,5 @@
+/*	This C file is Written by Abdelrahman Hegazy email:abdelrahmanhegazy70@gmail.com gitgub:https://github.com/Hegazian	*/
+
 /* Arithmetic Operators : they are operators used for math operations like 			     add,sub,multi,divsion,...
 */   
 /* there are two types of Arithmetic Operators 

@@ -1,3 +1,5 @@
+/*	This C file is Written by Abdelrahman Hegazy email:abdelrahmanhegazy70@gmail.com gitgub:https://github.com/Hegazian	*/
+
 /* includce stdio.h libarary 
    to use printf and scanf functions */
 

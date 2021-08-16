@@ -1,3 +1,5 @@
+/*	This C file is Written by Abdelrahman Hegazy email:abdelrahmanhegazy70@gmail.com gitgub:https://github.com/Hegazian	*/
+
 /*	Loops are a part of C programming used to repeat a specific
 	block of code.
 	We need to repeat the a specific code for
